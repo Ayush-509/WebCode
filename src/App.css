@@ -1,0 +1,19 @@
+.profile{
+    background-image: url("C:\Users\COMPAQ\Desktop\Chemical\frontend\public\Circled User Icon transparent PNG - StickPNG (3).jpeg");
+    background-size: cover;
+    border: 2px solid red;
+}
+
+.message{
+    background-image: url("C:\Users\COMPAQ\Desktop\Chemical\frontend\public\message-square-dots-svgrepo-com.svg");
+    background-size: cover;
+    width: 2vw;
+    height: 2vw;
+}
+
+.notification{
+    background-image: url("C:\Users\COMPAQ\Desktop\Chemical\frontend\public\notification-bell-svgrepo-com.svg");
+    background-size: cover;
+    width: 2vw;
+    height: 2vw;
+}
